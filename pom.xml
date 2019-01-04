@@ -495,4 +495,16 @@
             </reporting>
         </profile>
     </profiles>
+    
+    distributionManagement>
+        
+        <repository>
+            <id>release</id>
+            <name>gameoflife-repo</name>
+            <url>http://18.218.198.161:8081/#admin/repository/repositories:gameoflife-dev</url>
+        </repository>
+        
+    </distributionManagement>
+    
+    
 </project>
