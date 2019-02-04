@@ -508,7 +508,7 @@
         </profile>
     </profiles>
     
-    distributionManagement>
+    <distributionManagement>
         
         <repository>
             <id>release</id>
